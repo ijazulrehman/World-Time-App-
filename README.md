@@ -1,4 +1,4 @@
-# world Time App Example
+# World Time App Example
 
 World time app flutter Flutter project.
 
