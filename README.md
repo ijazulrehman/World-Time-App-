@@ -1,6 +1,6 @@
-# world_time
+# world Time App Example
 
-A new Flutter project.
+World time app flutter Flutter project.
 
 ## Getting Started
 
